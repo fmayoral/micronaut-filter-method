@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: io.fernandom.micronaut
+---
+testFramework: junit
+sourceLanguage: java
